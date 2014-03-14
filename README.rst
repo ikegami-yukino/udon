@@ -6,9 +6,11 @@ Udon is a text normalizer for lengthened English expression having repeating let
 (e.g., Udon converts "cooooooooooooooollllllllllllll" to "cool")
 
 This module is based on the following paper:
+
 Samuel Brody and Nicholas Diakopoulos.
 Cooooooooooooooollllllllllllll!!!!!!!!!!!!!! using word lengthening to detect sentiment in microblogs.
 In EMNLP2011, pp. 562-570, 2011.
+
 http://aclweb.org/anthology//D/D11/D11-1052.pdf
 
 
@@ -23,7 +25,7 @@ Installation
 Usage
 =====
 
-Import Udon
+Import udon
 --------------------------------------------
 
 ::
