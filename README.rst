@@ -1,5 +1,9 @@
 udon
 ===========
+.. image:: https://badge.fury.io/py/udon.png
+    :target: http://badge.fury.io/py/udon
+.. image:: https://travis-ci.org/ikegami-yukino/udon.svg?branch=master
+    :target: https://travis-ci.org/ikegami-yukino/udon
 
 Udon is a text normalizer for lengthened English expression having repeating letters.
 

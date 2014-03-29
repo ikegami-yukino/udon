@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 setup(
     name='udon',
     packages=find_packages(exclude=['test']),
-    version='0.1',
+    version='0.1.1',
     license='MIT License',
     platforms=['POSIX', 'Windows', 'Unix', 'MacOS'],
     description='Normalizing English lengthened expression having repeating letters. (e.g., "cooooooooooooooollllllllllllll" to "cool")',
