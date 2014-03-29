@@ -1,10 +1,11 @@
+# -*- coding: utf-8 -*-
 from nose.tools import assert_equal
 import udon
 
 
 def test_cut_repeat():
-    assert_equal(udon._cut_repeat('udoooon', 1), 'udon')
-    assert_equal(udon._cut_repeat('beeeeer', 2), 'beer')
+    assert_equal(udon.cut_repeat('udoooon', 1), 'udon')
+    assert_equal(udon.cut_repeat('beeeeer', 2), 'beer')
 
 
 def test_normalize_word():

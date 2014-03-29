@@ -20,7 +20,6 @@ setup(
         'Operating System :: POSIX',
         'Programming Language :: Python',
         'Development Status :: 3 - Alpha',
-        'Environment :: Console',
         'Intended Audience :: Developers',
         'Topic :: Utilities',
         'Topic :: Software Development',
